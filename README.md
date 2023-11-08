@@ -1,4 +1,4 @@
-# App-Prototyping-and-Customer-Data-Analysis-For-Fashion-Production-Decisions
+#Thesis: App-Prototyping-and-Customer-Data-Analysis-For-Fashion-Production-Decisions
 
 # Introduction:
 
